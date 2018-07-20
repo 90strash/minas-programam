@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>minha pagina</title>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+  </head>
+  <body>
+   <body background="https://i.pinimg.com/564x/86/f6/0e/86f60ed66bd925ae381aaf113bec0c90.jpg">
+   <div class= "cabecalho">
+      <h1> Bem Tumblrzinha</h1>
+      <p>Os spans  fazem alteração em linha. </p>
+    <nav>
+      <a href="https://cotrim.carbonmade.com"
+     target="_blank"> Meu portfolio</a>
+   
+<div class="header">
+  <img src="https://78.media.tumblr.com/8753d2e311cf8e8aaa81a3c1a6378970/tumblr_ow52fxrwC61wqgfsno4_1280.png" class="imagem">
+</div>
+
+<div class="memes-main">
+  
+    <div class="amarelo">
+     <img src="https://ctl.s6img.com/society6/img/RcSN7AmFyoncOBl2f7kKJrBs4Uc/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/42cdd37a54e54e1d97662b2fd3406ca2/~~/basquiat-crown553375-prints.jpg" class="imagem">
+      </div>
+    <div class="amarelo">
+      <img src="https://img.etsystatic.com/il/fd272d/903163672/il_570xN.903163672_rg86.jpg?version=0" class="imagem">
+      </div>
+    <div class="amarelo">
+      <img src="http://www.ledisquestore.com/moduli/ecommerce/site/foto-thumb.php?foto=67836&width=250&height=h" class="imagem">
+      </div>
+  </div>
+
+<div class="vermelho">
+ </div>
+
+  </body>
+</html>
